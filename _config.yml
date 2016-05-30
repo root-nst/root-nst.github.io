@@ -1,5 +1,5 @@
 # Site settings
-title: Jekyll-Uno
+title: root-nst
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/jekyll-uno/'
@@ -7,12 +7,12 @@ baseurl: '/jekyll-uno/'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'root-nst'
+  email: dkvsayuti@gmail.com  
+  twitter_username: root_nst
+  facebook_username: sayuti.photographdiskomvis
+  github_username:  root-nst  
+  linkedin_username:  root-nst
 
 defaults:
   -
