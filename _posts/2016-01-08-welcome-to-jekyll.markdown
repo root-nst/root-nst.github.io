@@ -1,25 +1,21 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Selamat Datang"
 date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [about]
+tags: [me]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Sebut saja Sayuti, menyukai sesuatu yang baru dibidang teknologi. Saat ini sedang mengambil Jurusan [Sistem Informasi], Fakultas Sains Dan Teknologi pada [UIN Suska Riau].Punya pengalaman dibidang pengkodean tapi bukan kode-kodean para wanita. Sebuah motivasi yang begitu bermakna untuk menjadi sukses dengan membedakan antara kebutuhan dan keinginan didalam hidup. Kau akan tetap ada di dalam jiwa... uhh yeaaaa :D
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Sedikit serpihan code untuk motivasi :D
 
 ``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+if (sad() === true) {
+    sad().stop();
+    be Awesome();
+}
 ```
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+[Sistem Informasi]: http://sif.uin-suska.ac.id
+[UIN Suska Riau]: http://uin-suska.ac.id/
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
