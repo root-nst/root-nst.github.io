@@ -2,7 +2,7 @@
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://root-nst.github.io/'
-baseurl: 'http://root-nst.github.io/jekyll-uno/'
+baseurl: 'root-nst'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -11,7 +11,7 @@ author:
   email: josh@joshgerdes.com
   twitter_username: joshgerdes
   facebook_username: joshgerdes
-  github_username:  root-nst
+  github_username:  joshgerdes
   linkedin_username:  joshgerdes
 
 defaults:
@@ -23,7 +23,7 @@ defaults:
         layout: 'post'
 
 # Build settings
-destination: _sites
+destination: _site
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
@@ -35,4 +35,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
